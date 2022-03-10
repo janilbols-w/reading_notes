@@ -1,6 +1,7 @@
 # tensorflow environment variables
 - adding environment before running your tensorflow code (TF2.4)
   - search `getenv("TF_` to see more
+ 
 | env_name | notes|
 | -------- | ---- |
 | TF_LOG_XLA_ACTIVITY | |
