@@ -17,9 +17,6 @@
 | TF_GPU_ALLOCATOR | |
 | TF_GPU_HOST_MEM_LIMIT_IN_MB | |
 
-
-```
-
 ## CPP code Logging
 add the following env to see more logs
 ```bash
