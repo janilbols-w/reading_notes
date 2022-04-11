@@ -31,3 +31,78 @@
 - DMA是什么，Shared Memory是什么
 - 梯度下降在框架内是如何实现的
 - TF中如何自定义op, op是什么
+
+# TBD
+https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+Machine Learning Interview Questions for Freshers
+
+Explain the terms AI, ML and Deep Learning?  
+Types of Learning/ Training models in ML  
+Difference between Deep Learning and Machine Learning?  
+Difference between Supervised and Unsupervised Machine Learning?  
+Differences between Causality and Correlation  
+Explain One-hot encoding and Label Encoding  
+Is a high variance in data good or bad?  
+What is Time series?  
+What is a Box-Cox transformation?  
+Differences between Random Forest and Gradient Boosting machines  
+What is a confusion matrix  
+What’s a Fourier transform?  
+What is Marginalization? Explain the process.  
+Explain the phrase “Curse of Dimensionality”.  
+What is Principle Component Analysis?  
+What is Linear Regression?  
+Machine Learning Interview Questions for Experienced  
+
+Is it possible to use KNN for image processing?  
+Differentiate between K-Means and KNN algorithms?  
+What is Kernel Trick in an SVM Algorithm?  
+What is OOB error and how does it occur?  
+How do you handle Outliers in the data?  
+List popular cross validation techniques  
+Limitations of Fixed Basis Function  
+Define Precision, Recall and F1 Score?  
+What is Bayes’ Theorem?  
+What is Naive Bayes? Why is it Naive?  
+Difference between Lasso and Ridge?  
+Mention some of the EDA Techniques?  
+Differentiate between Boosting and Bagging?  
+Define ROC Curve Work  
+Differences between a Linked list and an array?  
+Describe a Hash Table.  
+Machine Learning Coding Interview Questions  
+
+Write a simple code to binarize data.  
+Water Trapping Problem  
+Explain Eigenvectors and Eigenvalues  
+Machine Learning Using Python Interview Questions  
+
+What is Lists in Python?  
+How is p-value useful?  
+Name a few hyper-parameters of decision trees?  
+How to deal with multicollinearity?  
+What is the role of cross-validation?  
+What is Pandas Profiling?  
+How is PCA different from LDA?  
+What distance metrics can be used in KNN?  
+What is a pipeline?  
+What are the benefits of pruning?  
+What is a chi-square test?  
+What is the degree of freedom?  
+Difference between Type I and Type II error?  
+What do you mean by the ROC curve?  
+What do you mean by AUC curve?  
+Advantages of SVM algorithms  
+How is linear classifier relevant to SVM?  
+What do you understand by Precision and Recall?  
+What is Kernel SVM?  
+
+Machine Learning FAQ's  
+
+How do I start a career in machine learning?  
+What is the best way to learn machine learning?  
+What degree do you need for machine learning?  
+How do you break into machine learning?  
+How difficult is machine learning?  
+What is machine learning for beginners?  
+Does machine learning require coding?  
