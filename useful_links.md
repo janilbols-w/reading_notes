@@ -13,3 +13,6 @@ this page will record some useful links for daily work
 - https://algorithmia.com/
 - https://www.datarobot.com/podcasts/
 - https://www.datarobot.com/mlops-101/
+
+## Coursera: Machine Learning Engineering for productions MLOps
+- https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#howItWorks
